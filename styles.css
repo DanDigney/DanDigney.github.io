@@ -8,7 +8,7 @@
 p {
 	padding: 3px;
 }
-#table {
+#table, th, td {
 	border: 1px solid black;
 }
 td {
@@ -52,5 +52,11 @@ a:active {
   }
   figure {
   	display: none;
+  }
+  #table, th, td {
+  	border: none;
+  }
+  td {
+  	border: 1px solid black;
   }
 }
