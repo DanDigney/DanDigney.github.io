@@ -1,3 +1,19 @@
-body {
-	background-color: blue;
+* {
+	font-family: "Verdana", Geneva, sans-serif;
+}
+
+a:link {
+	color: #3333ff;
+}
+
+a:visited {
+	color: #4d79ff;
+}
+
+a:hover {
+	color: #e580ff;
+}
+
+a:active {
+	color: #ff0066;
 }
