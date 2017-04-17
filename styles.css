@@ -1,5 +1,29 @@
 * {
 	font-family: "Verdana", Geneva, sans-serif;
+	max-width: 80%;
+	margin: 0.5% auto;
+	background-color: #6b2e5e;
+}
+
+p {
+	padding: 3px;
+}
+
+td {
+	text-align: center;
+}
+
+#awards li{
+	font-family: "Times New Roman", Times, serif;
+}
+
+.quote {
+	background-image: url("https://cdn.pixabay.com/photo/2016/06/06/12/33/clouds-1439324_960_720.jpg");
+}
+
+.footer {
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
 }
 
 a:link {
